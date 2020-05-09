@@ -63,7 +63,7 @@
                     快速地建置符合 server-side processing mode 規則的 API
                 </p>
                 <p class="lead text-muted">
-                    Tableslgniter is an Library base on CodeIgniter3.<br>
+                    TableslgniterCI3 is an Library base on CodeIgniter3.<br>
                     It will help you use jQuery Datatables in server side mode.
                 </p>
                 <p>
@@ -91,7 +91,7 @@
                     <div class="col-12">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Composer 安裝套件</h5>
+                                <h5 class="card-title">安裝套件</h5>
                                 <p class="card-text">
                                     至 
                                     <a href="https://github.com/monkenWu/TablesIgniter_CI3/releases" target="_blank">git儲存庫</a>
