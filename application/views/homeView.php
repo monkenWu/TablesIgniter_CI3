@@ -94,9 +94,9 @@
                                 <h5 class="card-title">Composer 安裝套件</h5>
                                 <p class="card-text">
                                     至 
-                                    <a href="" >git儲存庫</a>
+                                    <a href="https://github.com/monkenWu/TablesIgniter_CI3/releases" target="_blank">git儲存庫</a>
                                      下載最新程式庫，或
-                                    <a href="" >點我</a>下載
+                                    <a href="https://github.com/monkenWu/TablesIgniter_CI3/archive/v1.0.0.zip" >點我</a>下載
                                     ，並將它放在 libraries 目錄中：
                                 </p>
                                 <pre><code class="bash">{yourProjectRoot}/application/libraries/TablesIgniterCI3.php</code></pre>
